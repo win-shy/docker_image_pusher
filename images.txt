@@ -1,6 +1,7 @@
 #支持私库
-openmetadata/server:latest
-openmetadata/ingestion:latest
-openmetadata/db:latest
+#openmetadata/server:latest
+#openmetadata/ingestion:latest
+#openmetadata/db:latest
 #支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
+#--platform=linux/arm64 xiaoyaliu/alist
+eosphorosai/dbgpt:latest
