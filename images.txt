@@ -6,3 +6,5 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 mysql/mysql-server
 eosphorosai/dbgpt-openai:latest
+eosphorosai/dbgpt:latest
+
