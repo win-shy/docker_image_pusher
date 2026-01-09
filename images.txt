@@ -4,5 +4,5 @@
 #openmetadata/db:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-eosphorosai/dbgpt:latest
+mysql/mysql-server
 eosphorosai/dbgpt-openai:latest
