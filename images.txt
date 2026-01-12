@@ -7,4 +7,4 @@
 mysql/mysql-server
 eosphorosai/dbgpt-openai:latest
 eosphorosai/dbgpt:latest
-
+xprobe/xinference:v0.12.3
