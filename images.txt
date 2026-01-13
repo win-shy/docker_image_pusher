@@ -8,3 +8,5 @@ mysql/mysql-server
 eosphorosai/dbgpt-openai:latest
 eosphorosai/dbgpt:latest
 xprobe/xinference:v0.12.3
+pgvector/pgvector:pg17
+supersonicbi/supersonic:${SUPERSONIC_VERSION:-latest}
