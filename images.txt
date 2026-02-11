@@ -8,5 +8,10 @@
 #eosphorosai/dbgpt-openai:latest
 #eosphorosai/dbgpt:latest
 #xprobe/xinference:v0.12.3
-pgvector/pgvector:pg17
-supersonicbi/supersonic:latest
+#pgvector/pgvector:pg17
+#supersonicbi/supersonic:latest
+
+tabulario/spark-iceberg
+apache/iceberg-rest-fixture
+minio/minio
+minio/mc
