@@ -1,4 +1,4 @@
-nginx
+#nginx
 #支持私库
 #openmetadata/server:latest
 #openmetadata/ingestion:latest
@@ -12,7 +12,9 @@ nginx
 #pgvector/pgvector:pg17
 #supersonicbi/supersonic:latest
 
-tabulario/spark-iceberg
-apache/iceberg-rest-fixture
-minio/minio
-minio/mc
+#tabulario/spark-iceberg
+#apache/iceberg-rest-fixture
+#minio/minio
+#minio/mc
+dataease/sqlbot 
+dataease/dataease
