@@ -16,5 +16,6 @@
 #apache/iceberg-rest-fixture
 #minio/minio
 #minio/mc
-dataease/sqlbot 
-dataease/dataease
+# dataease/sqlbot 
+# dataease/dataease
+pgvector/pgvector:pg17
