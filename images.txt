@@ -18,4 +18,5 @@
 #minio/mc
 # dataease/sqlbot 
 # dataease/dataease
-pgvector/pgvector:pg17
+# pgvector/pgvector:pg17
+ghcr.io/1panel-dev/maxkb-vector-model:v1.0.1
